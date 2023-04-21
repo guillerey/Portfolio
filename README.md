@@ -10,7 +10,8 @@ npm create astro@latest -- --template portfolio
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
-![portfolio](https://user-images.githubusercontent.com/357379/210779178-a98f0fb7-6b1a-4068-894c-8e1403e26654.jpg)
+![portfolio](https://user-images.githubusercontent.com/30531913/233541731-f3dd38ba-2eef-4229-9878-54ec1c696d52.png)
+
 
 
 ## 🧞 Commands
