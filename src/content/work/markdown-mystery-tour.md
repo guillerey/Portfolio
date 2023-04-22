@@ -1,14 +1,14 @@
 ---
-title: Markdown Mystery Tour
+title: Real Estate Web Page
 publishDate: 2020-03-02 00:00:00
-img: /assets/stock-1.jpg
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img: /assets/stock-21.jpg
+img_alt: a Real Estate Web Page
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  Design of a Real Estate Web Page
 tags:
-  - Design
-  - Dev
-  - User Testing
+  - HTML5
+  - CSS3
+  - Bootstrap4
 ---
 
 ## Level-two heading
