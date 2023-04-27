@@ -1,15 +1,17 @@
 ---
-title: To-Do List App
+title: To-Do List Application
 publishDate: 2020-03-04 00:00:00
 img: /assets/stock-31.jpg
-img_alt: to-do lists app building with reactjs
+img_alt: To-Do List Application
 description: |
-  Development of a CRUD To-Do List Application
 tags:
-  - Reactjs
   - Javascript
-  - Nodejs
+  - ReactJS
+  - NodeJS
+  - ExpressJS
 ---
+
+##### [👉👉 To-Do List App](https://todo-project-corecode.netlify.app/)<base target="_blank">
 
 ##### Description of the development process:
 

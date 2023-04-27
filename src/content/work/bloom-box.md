@@ -4,14 +4,13 @@ publishDate: 2019-12-01 00:00:00
 img: /assets/stock-1.jpg
 img_alt: A spa web page
 description: |
-  Spa Web Page
 tags:
   - HTML5
   - CSS3
   - Bootstrap4
 ---
 
-##### Spa Web Page
+##### [👉👉 Rosalbina Spa](https://guillerey.github.io/Spa-web-page/)<base target="_blank">
 
 Planning: Begin by defining the spa web page requirements and functionality, including what services the spa offers, how users can book appointments, and how they will interact with the page. Develop a basic wireframe or prototype of the user interface.
 
