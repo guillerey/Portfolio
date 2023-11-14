@@ -7,11 +7,12 @@ description: |
 tags:
   - HTML5
   - CSS3
+  - Bootstrap
 ---
 
 ##### [👉👉 Graphic Designer Portfolio Version 2](https://guillerey.github.io/Graphic-Designer-Portfolio/)<base target="_blank">
 
-Front-end development: Use HTML and CSS to create this portfolio
+Front-end development: Use HTML, CSS and Bootstrap to create this portfolio
 
 Deployment: Deploying the login page to github pages to make it accessible to users.
 
