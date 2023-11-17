@@ -1,7 +1,7 @@
 ---
 title: Casas Canadienses
 publishDate: 2023-10-02 00:00:00
-img: /assets/stock 42.png
+img: /assets/stock42.png
 img_alt: Diseño pagina casas canadienses
 description: |
 tags:
